@@ -8,3 +8,14 @@ Reflexion is not a replacement for [ReAct](https://github.com/ysymyth/ReAct) or 
 Check out an [implementation](https://github.com/noahshinn024/reflexion-human-eval) using Reflexion to master HumanEval (88% pass@1 accuracy) and a [blog post](https://nanothoughts.substack.com/p/reflecting-on-reflexion) for a discussion on other applications.
 
 If you have any questions, please contact [noahshinn024@gmail.com](noahshinn024@gmail.com)
+
+### Cite
+
+```bibtex
+@article{shinn2023reflexion,
+  title={Reflexion: an autonomous agent with dynamic memory and self-reflection},
+  author={Shinn, Noah and Labash, Beck and Gopinath, Ashwin},
+  journal={arXiv preprint arXiv:2303.11366},
+  year={2023}
+}
+```
