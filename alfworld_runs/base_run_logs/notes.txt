@@ -1,1 +1,0 @@
-extra trial in ../without_reflection_0/world.log
